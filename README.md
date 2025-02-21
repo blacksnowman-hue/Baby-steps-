@@ -2,7 +2,6 @@
 
 A modern, user-friendly appointment scheduling system for prenatal care services, built with React, Node.js, and MongoDB.
 
-![BabySteps Screenshot](https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&q=80&w=1200)
 
 ## Features
 
